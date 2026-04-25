@@ -306,9 +306,7 @@ ADAS alert level
 numerical risk score
 Demo Video
 
-The annotated demo video is available in the GitHub Releases section.
-
-Release page:
+The annotated demo video is available in the GitHub Releases section:
 
 https://github.com/mahdi-rahmani-eng/ROS2-ADAS-Perception-Pipeline/releases/tag/v1.0-demo
 
